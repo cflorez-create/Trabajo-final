@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "archivo_001",
+    "id_usuario": "usr_001",
+    "fecha": "2025-12-05",
+    "ruta_archivo": "/uploads/usr_001/2025/12/almuerzo.jpg",
+    "tipo": "imagen",
+    "descripcion": "Almuerzo: ensalada con pollo y quinua",
+    "categoria": "alimentacion",
+    "metadatos": {
+      "calorias_estimadas": 550,
+      "horario_comida": "13:00",
+      "fuente": "foto tomada por el usuario"
+    }
+  },
+  {
+    "_id": "archivo_002",
+    "id_usuario": "usr_002",
+    "fecha": "2025-12-05",
+    "ruta_archivo": "/uploads/usr_002/2025/12/desayuno.jpg",
+    "tipo": "imagen",
+    "descripcion": "Desayuno: avena con frutas",
+    "categoria": "alimentacion",
+    "metadatos": {
+      "calorias_estimadas": 320,
+      "horario_comida": "08:00",
+      "fuente": "foto tomada por el usuario"
+    }
+  }
+]

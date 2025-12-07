@@ -1,0 +1,30 @@
+[
+  {
+    "_id": "nota_001",
+    "id_usuario": "usr_001",
+    "fecha": "2025-12-05",
+    "texto": "Hoy me sentí con mucha energía. Hice ejercicio y comí saludable.",
+    "etiquetas": ["energía", "ejercicio", "alimentación"],
+    "estado_animo": 8,
+    "ubicacion": "Medellín, Antioquia",
+    "clima": {
+      "temperatura": 22,
+      "condicion": "soleado"
+    },
+    "actividad_destacada": "Caminata de 30 minutos"
+  },
+  {
+    "_id": "nota_002",
+    "id_usuario": "usr_002",
+    "fecha": "2025-12-05",
+    "texto": "Me sentí cansado durante el día. Dormí poco.",
+    "etiquetas": ["cansancio", "sueño"],
+    "estado_animo": 4,
+    "ubicacion": "Rionegro, Antioquia",
+    "clima": {
+      "temperatura": 18,
+      "condicion": "nublado"
+    },
+    "actividad_destacada": "Estudié 2 horas"
+  }
+]
